@@ -14,3 +14,6 @@ Todos os comandos pela qual a halo atende:
     > halo volume baixo
     > halo volume máximo
     > halo encerrar
+
+    Cole este comando no CMD:
+pip install speechrecognition pyttsx3 pyautogui pywhatkit pyqt5 numpy sounddevice matplotlib pillow
